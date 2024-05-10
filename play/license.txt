@@ -1,0 +1,11 @@
+Model Information:
+* title:	PLAY
+* source:	https://sketchfab.com/3d-models/play-5b45f5dd5f364514a02a7456cf1f7e8d
+* author:	Sebastian Paez (https://sketchfab.com/TINOPAEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PLAY" (https://sketchfab.com/3d-models/play-5b45f5dd5f364514a02a7456cf1f7e8d) by Sebastian Paez (https://sketchfab.com/TINOPAEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
