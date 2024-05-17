@@ -1,0 +1,11 @@
+Model Information:
+* title:	Prepago
+* source:	https://sketchfab.com/3d-models/prepago-8694054dd4c9457b8b6aeacc113b2ef8
+* author:	Sebastian Paez (https://sketchfab.com/TINOPAEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Prepago" (https://sketchfab.com/3d-models/prepago-8694054dd4c9457b8b6aeacc113b2ef8) by Sebastian Paez (https://sketchfab.com/TINOPAEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

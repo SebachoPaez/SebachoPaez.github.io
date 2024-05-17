@@ -1,0 +1,11 @@
+Model Information:
+* title:	Artistas
+* source:	https://sketchfab.com/3d-models/artistas-594bb8a8a6e1460bbb7ef81635e5485a
+* author:	Sebastian Paez (https://sketchfab.com/TINOPAEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Artistas" (https://sketchfab.com/3d-models/artistas-594bb8a8a6e1460bbb7ef81635e5485a) by Sebastian Paez (https://sketchfab.com/TINOPAEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
