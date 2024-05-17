@@ -1,0 +1,11 @@
+Model Information:
+* title:	PRE-PAGO
+* source:	https://sketchfab.com/3d-models/pre-pago-ef9464de4ac44368bdcb3ec425954644
+* author:	Sebastian Paez (https://sketchfab.com/TINOPAEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PRE-PAGO" (https://sketchfab.com/3d-models/pre-pago-ef9464de4ac44368bdcb3ec425954644) by Sebastian Paez (https://sketchfab.com/TINOPAEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

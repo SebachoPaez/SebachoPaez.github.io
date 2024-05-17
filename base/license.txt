@@ -1,0 +1,11 @@
+Model Information:
+* title:	base
+* source:	https://sketchfab.com/3d-models/base-1860c3f4d7be475aa0a3b73f1c89024c
+* author:	Sebastian Paez (https://sketchfab.com/TINOPAEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "base" (https://sketchfab.com/3d-models/base-1860c3f4d7be475aa0a3b73f1c89024c) by Sebastian Paez (https://sketchfab.com/TINOPAEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

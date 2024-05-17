@@ -1,0 +1,11 @@
+Model Information:
+* title:	mostrar todo
+* source:	https://sketchfab.com/3d-models/mostrar-todo-f73b7a24fe4741c68d105e2972024990
+* author:	Sebastian Paez (https://sketchfab.com/TINOPAEZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "mostrar todo" (https://sketchfab.com/3d-models/mostrar-todo-f73b7a24fe4741c68d105e2972024990) by Sebastian Paez (https://sketchfab.com/TINOPAEZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
